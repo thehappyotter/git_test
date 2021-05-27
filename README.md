@@ -1,2 +1,3 @@
 # git_test
-Just for learning
+
+This repo is for learning HTML, CSS and Javascript.  It will follow tutorials found online.
